@@ -1,0 +1,17 @@
+fos_comment_comment_new_headline_first:       Dodaj pierwszy komentarz
+fos_comment_comment_new_headline:             Dodaj nowy komentarz
+fos_comment_comment_new_submit:               Wyślij
+
+fos_comment_comment_reply_reply_to:           Odpowiedz do
+fos_comment_comment_reply_cancel:             Anuluj
+
+fos_comment_comment_show_by:                  Przez
+fos_comment_comment_show_voteup:              Głosuj za
+fos_comment_comment_show_votedown:            Głosuj przeciw
+fos_comment_comment_show_reply:               Odpowiedź
+
+fos_comment_comment_tree_load_more:           Załaduj więcej odpowiedzi
+
+Showing %num% comment|Showing %num% comments: Wyświetla %num% komentarz|Wyświetla %num% komentarzy
+
+fos_comment_rss_feed:                         Kanał RSS
